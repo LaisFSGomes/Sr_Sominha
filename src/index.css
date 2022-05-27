@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Manjari&display=swap');
+
+body {
+  display: flex;
+	justify-content: center;
+	font-family: 'Manjari', sans-serif;
+	color: #F0F0F0;
+	background-color: #F2CEAB;
+	height: 100%;
+	padding: 16px;
+	box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
